@@ -1,2 +1,1 @@
 Get-Process
-Get-Date
